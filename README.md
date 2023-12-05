@@ -11,7 +11,7 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 - İlgili componentin *component.ts* dosyası içinde export edilen class başlangıçta çalışacak classtır.
 ![image](https://github.com/burcutokol/AngularPractices/assets/56488562/2f6aaa04-b15b-4a4d-9d81-2971ceaae061)
 ----------------------------------------------------------------------------------------------------------------
-- Projede bulunan index.html dosyası içerisinde bulunan HTML etiketleri ve component içindeki selector özelliği sayesinde componentler bu etiket içine dahil edilir.
+- Projede bulunan *index.html* dosyası içerisinde bulunan HTML etiketleri ve component içindeki *selector* özelliği sayesinde componentler bu etiket içine dahil edilir.
 - ![image](https://github.com/burcutokol/AngularPractices/assets/56488562/cb489876-d3a9-4dd6-9b8c-0813156aeffa)
 - ![image](https://github.com/burcutokol/AngularPractices/assets/56488562/6874c9a4-3adc-419b-b858-58d51f0d269f)
 
