@@ -8,7 +8,7 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 - İlgili modülün *module.ts* dosyası içerisinde ise projenin başlangıçta kullanacağı component verilir.
 ![image](https://github.com/burcutokol/AngularPractices/assets/56488562/277e7188-74c4-418c-b51d-4b184ecf75ea)
 - İlgili componentin *component.ts* dosyası içinde export edilen class başlangıçta çalışacak classtır.
-- ![image](https://github.com/burcutokol/AngularPractices/assets/56488562/2f6aaa04-b15b-4a4d-9d81-2971ceaae061)
+![image](https://github.com/burcutokol/AngularPractices/assets/56488562/2f6aaa04-b15b-4a4d-9d81-2971ceaae061)
 
 
 
